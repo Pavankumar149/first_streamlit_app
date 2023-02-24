@@ -1,9 +1,5 @@
 import streamlit
-
-streamlit.title('Hello Shiva sai ')
-streamlit.header('Your Pc is got strucked ')
-streamlit.text('You want to take some fruits.... ')
-streamlit.text('this is sample text for streamlit')
-streamlit.text('we have been trying to use streamlit')
-
-steamlit.text('Hey shiva sai')
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
